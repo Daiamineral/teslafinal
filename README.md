@@ -30,4 +30,4 @@ El notebook muestra cómo descargar datos históricos, extraer información con 
 
 ---
 
-👩‍💻 Creado por *Daiana Campero*  
+👩‍💻 Creado por *Daiana*  
